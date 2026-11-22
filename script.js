@@ -4,7 +4,7 @@
 // ========================================
 
 // Inbox that receives quote requests
-const BUSINESS_EMAIL = "miryscleans@gmail.com";
+const BUSINESS_EMAIL = "mirycleans@gmail.com";
 
 // Free form submission service
 const FORM_ENDPOINT = `https://formsubmit.co/ajax/${BUSINESS_EMAIL}`;
